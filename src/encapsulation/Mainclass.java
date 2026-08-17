@@ -2,7 +2,7 @@ package encapsulation;
 
 class Phonepay
 {
-	private int pin=1234;
+	private int pin="vignesh";
 	public int getter()
 	{
 	 return pin;	
