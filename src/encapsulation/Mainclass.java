@@ -3,6 +3,8 @@ package encapsulation;
 class Phonepay
 {
 	private int pin="vignesh";
+	private int pin="nith";
+	private int pin="yash";
 	public int getter()
 	{
 	 return pin;	
